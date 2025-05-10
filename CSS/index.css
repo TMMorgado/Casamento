@@ -21,7 +21,7 @@
   }
 
   .jumbo{
-    font-size: 90px;
+    font-size: 100px;
     color: white;
   }
 
@@ -29,8 +29,9 @@
   color: white;}
 
   h2{
-    font-size: 40px;
+    font-size: 60px;
   }
+ 
  
   
 
@@ -231,7 +232,12 @@
 
 
 
-  p {line-height: 2}
+  p {
+    font-size: 33px;
+    line-height: 2;
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+  }
 
 
   .bottom-fixed {bottom: 0; position: fixed;}

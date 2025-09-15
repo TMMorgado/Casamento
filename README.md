@@ -1,4 +1,4 @@
-# Wedding Photo Uploader
+# Wedding Photo Uploader (PHONE VIEW)
 
 Este projeto foi desenvolvido com o objetivo de criar um site simples e funcional onde os convidados de um casamento possam carregar (upload) as fotos que tiraram durante o evento para um repositório central — neste caso, o **Dropbox**.
 
